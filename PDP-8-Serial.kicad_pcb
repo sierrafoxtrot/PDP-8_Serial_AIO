@@ -15285,6 +15285,66 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Rx"
+		(at 176 82.8 0)
+		(layer "B.SilkS")
+		(uuid "19a8da3b-2a7c-47bc-b8ff-e442d6e7e7ac")
+		(effects
+			(font
+				(size 0.746 0.746)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Tx"
+		(at 176 84.4 0)
+		(layer "B.SilkS")
+		(uuid "0694fc73-3420-4ab2-811e-a9e4bcddc556")
+		(effects
+			(font
+				(size 0.746 0.746)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "CTS"
+		(at 176 86 0)
+		(layer "B.SilkS")
+		(uuid "7038eff1-0193-4bfa-b0a6-24b919dab1ec")
+		(effects
+			(font
+				(size 0.746 0.746)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 176 87.6 0)
+		(layer "B.SilkS")
+		(uuid "a4ba2133-d45a-4656-9db0-ee459cb25c19")
+		(effects
+			(font
+				(size 0.746 0.746)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Rev. A"
+		(at 95 130.587 0)
+		(layer "B.SilkS")
+		(uuid "7e5b493a-8a4d-4daa-842e-93240b5b0ebe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "(c)Scott Finneran 2026\nhttps://github.com/sierrafoxtrot\n"
 		(at 188.6 73.4 0)
 		(layer "B.SilkS")
@@ -15333,8 +15393,8 @@
 			(justify right bottom mirror)
 		)
 	)
-	(gr_text "Serial Cable Wiring"
-		(at 163.8 81.4 0)
+	(gr_text "Serial Cable"
+		(at 165.4 81.4 0)
 		(layer "B.SilkS")
 		(uuid "d12b4264-530c-4e37-8c94-5974aea5d4a6")
 		(effects
@@ -15413,6 +15473,19 @@
 			(font
 				(size 1.1016 1.1016)
 				(thickness 0.1754)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "PDP-8 Serial All-in-One"
+		(at 158.2 130.4 0)
+		(layer "B.SilkS")
+		(uuid "3e45d25e-fde6-451f-bf11-d82f6d428901")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)

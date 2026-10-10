@@ -6,9 +6,7 @@ A W070 compatible serial interface for the original DEC PDP-8, providing both te
 
 The original PDP-8 was commonly used with an ASR-33 Teletype connected through a DEC W070 interface. The ASR-33 provided a 110 baud printing terminal together with paper tape punch and reader facilities.
 
-The Australian Computer Museum Society PDP-8 is missing its W070 interface. This project started as a []RetroChallenge 2026/10](https://www.retrochallenge.org/) project to build a practical replacement, while adding an RS-232 interface so the machine can also be used with terminals such as a DECWriter or VT220, or with a modern computer through a USB to RS-232 adaptor.
-
-Project background and RetroChallenge progress:
+The Australian Computer Museum Society PDP-8 is missing its W070 interface. This project started as a [RetroChallenge 2026/10](https://www.retrochallenge.org/) project to build a practical replacement, while adding an RS-232 interface so the machine can also be used with terminals such as a DECWriter or VT220, or with a modern computer through a USB to RS-232 adaptor.
 
 [RetroChallenge 2026/10 project thread](https://forum.acms.org.au/t/rc2026-10-pdp-8-serial-interface/1152)
 
