@@ -8364,7 +8364,7 @@
 			(uuid "c1d95269-ebf1-4d7a-a33a-dbe9f43db4e9")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U1")
 					(unit 1)
@@ -8438,7 +8438,7 @@
 			(uuid "104cb044-d5e9-437b-a4d6-ff8b3a2a9c54")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "LK2")
 					(unit 1)
@@ -8503,7 +8503,7 @@
 			(uuid "d14c1fa8-d6fb-4654-87cd-c412cc899168")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR026")
 					(unit 1)
@@ -8572,7 +8572,7 @@
 			(uuid "932170a4-cb6c-4172-9584-fef014ee9f08")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R6")
 					(unit 1)
@@ -8639,7 +8639,7 @@
 			(uuid "fd3e6b16-24ea-41f0-997a-56a21aae1845")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP7")
 					(unit 1)
@@ -8706,7 +8706,7 @@
 			(uuid "73b5b712-0ef2-4565-ba20-0891075ecffd")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP5")
 					(unit 1)
@@ -8772,7 +8772,7 @@
 			(uuid "16bdc817-0588-4441-9074-893d3cc1a3f9")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR014")
 					(unit 1)
@@ -8838,7 +8838,7 @@
 			(uuid "26da0de5-25ea-4551-8d37-ba25ce69762b")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR024")
 					(unit 1)
@@ -8904,7 +8904,7 @@
 			(uuid "cb6b6f93-919b-4596-aa38-647f3c1a0a5b")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR022")
 					(unit 1)
@@ -8971,7 +8971,7 @@
 			(uuid "8d7c5277-ec2c-414f-a7a7-f4bc402593c7")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C6")
 					(unit 1)
@@ -9041,7 +9041,7 @@
 			(uuid "b17c4527-b33f-407a-a12b-842525796656")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "JP1")
 					(unit 1)
@@ -9145,7 +9145,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d350")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 5)
@@ -9239,7 +9239,7 @@
 			(uuid "ed44543a-8671-4bf3-b251-fcb4d2c89a3d")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "Q3")
 					(unit 1)
@@ -9305,7 +9305,7 @@
 			(uuid "62f690bc-60c8-47f6-b899-a49c11a31b29")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR023")
 					(unit 1)
@@ -9371,7 +9371,7 @@
 			(uuid "ca02c7cb-81de-4b02-8c0f-3ec7cbd76d52")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR08")
 					(unit 1)
@@ -9477,7 +9477,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d351")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 7)
@@ -9543,7 +9543,7 @@
 			(uuid "97fadd4c-cf0d-4775-a9e9-1edffccbe33e")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR03")
 					(unit 1)
@@ -9615,7 +9615,7 @@
 			(uuid "4e1d50f5-0d59-4abe-885c-74f060a919e8")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "JP2")
 					(unit 1)
@@ -9687,7 +9687,7 @@
 			(uuid "62864894-7123-46bb-93e6-ee862b3fae59")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "JP3")
 					(unit 1)
@@ -9754,7 +9754,7 @@
 			(uuid "43e85533-f310-43b9-a5b4-21adabbeee31")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R2")
 					(unit 1)
@@ -9821,7 +9821,7 @@
 			(uuid "e1b2cb11-756b-4bd1-8b6e-f7e08d31c119")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP3")
 					(unit 1)
@@ -9891,7 +9891,7 @@
 			(uuid "56085cfa-d80c-4fbc-9032-3de21b8cb594")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C7")
 					(unit 1)
@@ -9961,7 +9961,7 @@
 			(uuid "bf8bb3d8-846b-4464-8cd6-07e4b0e2cf13")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R15")
 					(unit 1)
@@ -9981,7 +9981,7 @@
 		(fields_autoplaced yes)
 		(uuid "3b5320c6-a95c-48dc-a79d-54c253d25970")
 		(property "Reference" "J3"
-			(at 31.115 66.04 0)
+			(at 31.115 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,6 +9994,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "DEC:FlipChip_SingleSided_CardEdge"
@@ -10078,7 +10079,7 @@
 			(uuid "8cbd09da-3a3f-456e-8bd9-81d0c4e201cc")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "J3")
 					(unit 1)
@@ -10143,7 +10144,7 @@
 			(uuid "e14a80eb-8e39-4992-be8c-ff2aed5576f9")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR027")
 					(unit 1)
@@ -10212,7 +10213,7 @@
 			(uuid "fcf59daf-22c9-455c-9166-5cdb36066af5")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R5")
 					(unit 1)
@@ -10284,7 +10285,7 @@
 			(uuid "13b54536-8602-4166-bb3e-7bda664d4fa4")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U3")
 					(unit 1)
@@ -10388,7 +10389,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d352")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 2)
@@ -10454,7 +10455,7 @@
 			(uuid "210d5fc6-1380-416a-a46d-8654b45f1db0")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR032")
 					(unit 1)
@@ -10524,7 +10525,7 @@
 			(uuid "be531cb2-9c34-47b7-a949-ee87c52374aa")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R4")
 					(unit 1)
@@ -10591,7 +10592,7 @@
 			(uuid "cb0c6520-8639-46ed-8b36-947b5d30fb83")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C2")
 					(unit 1)
@@ -10657,7 +10658,7 @@
 			(uuid "f7b2413b-b4db-4392-b2ab-4249d7e8c4ef")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR013")
 					(unit 1)
@@ -10723,7 +10724,7 @@
 			(uuid "37c285f0-d857-4d26-b217-cf26ffedb26b")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR015")
 					(unit 1)
@@ -10809,7 +10810,7 @@
 			(uuid "e81378ea-d540-41bb-8450-b2599cdf22af")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D9")
 					(unit 1)
@@ -10888,7 +10889,7 @@
 			(uuid "797a5ad3-3885-433f-b2de-a31af0701121")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D1")
 					(unit 1)
@@ -10954,7 +10955,7 @@
 			(uuid "bfc5d86e-17d5-45a0-b60e-cb5abbf3f2d8")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR05")
 					(unit 1)
@@ -11020,7 +11021,7 @@
 			(uuid "38146a92-7a12-426a-90e4-0b06a9afe553")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR029")
 					(unit 1)
@@ -11086,7 +11087,7 @@
 			(uuid "6ce4fe20-0cfc-4436-9d97-341b96b636f3")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR011")
 					(unit 1)
@@ -11153,7 +11154,7 @@
 			(uuid "f2bce375-d2c8-4ff6-b19f-216497aaecd2")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP6")
 					(unit 1)
@@ -11219,7 +11220,7 @@
 			(uuid "4ee66936-5ba6-4e8b-8012-dfbb113c203a")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR01")
 					(unit 1)
@@ -11285,7 +11286,7 @@
 			(uuid "823d293f-fba1-4af3-9891-48545367186c")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR04")
 					(unit 1)
@@ -11363,7 +11364,7 @@
 			(uuid "1701a19f-517e-43b6-8926-8c13489f3e32")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D3")
 					(unit 1)
@@ -11457,7 +11458,7 @@
 			(uuid "a3e61762-3f26-4143-afc1-e5b853ed89d7")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "Q1")
 					(unit 1)
@@ -11523,7 +11524,7 @@
 			(uuid "168d4e69-62c8-44a2-9cc9-97ee2d602240")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR025")
 					(unit 1)
@@ -11591,7 +11592,7 @@
 			(uuid "cb06dd6a-5fbd-456a-938e-30d33957302a")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R11")
 					(unit 1)
@@ -11677,7 +11678,7 @@
 			(uuid "a8daced2-686c-4de6-9203-a09d4c6df01a")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D6")
 					(unit 1)
@@ -11745,7 +11746,7 @@
 			(uuid "b0f39451-99a2-4b95-85c4-a76ec3fdd5d5")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R8")
 					(unit 1)
@@ -11818,7 +11819,7 @@
 			(uuid "45d40f1d-5dd0-430a-b83a-84edc34870ea")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "LK1")
 					(unit 1)
@@ -11885,7 +11886,7 @@
 			(uuid "bf3075d9-012d-414a-aafc-cd4b1f4385c3")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP1")
 					(unit 1)
@@ -11952,7 +11953,7 @@
 			(uuid "9afd0ec2-40b2-42e5-95f9-f560a3ad55ba")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C5")
 					(unit 1)
@@ -12022,7 +12023,7 @@
 			(uuid "b49ce057-4a04-4157-bd06-af552a8d1457")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C10")
 					(unit 1)
@@ -12088,7 +12089,7 @@
 			(uuid "54f51006-d1bb-407b-babb-07d55d873e34")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR021")
 					(unit 1)
@@ -12174,7 +12175,7 @@
 			(uuid "c41292a6-0012-4d28-9e6d-f14261b1b6b7")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D10")
 					(unit 1)
@@ -12240,7 +12241,7 @@
 			(uuid "e5fe3e50-9acc-482b-84e9-c57c8faca3ed")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR031")
 					(unit 1)
@@ -12326,7 +12327,7 @@
 			(uuid "b8542568-8c8a-44e1-8b4a-3bef0c1f486c")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D7")
 					(unit 1)
@@ -12393,7 +12394,7 @@
 			(uuid "de643eea-fdc2-46db-8b3d-080107802625")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP4")
 					(unit 1)
@@ -12479,7 +12480,7 @@
 			(uuid "5a41f6ef-aab7-4e97-9cdc-6cf0ad86b876")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D8")
 					(unit 1)
@@ -12553,7 +12554,7 @@
 			(uuid "80b1d010-3a0b-46ba-922e-cc951f78ff95")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "LK3")
 					(unit 1)
@@ -12619,7 +12620,7 @@
 			(uuid "ac22078c-299b-4d36-878d-7aa4e6b9e79e")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR020")
 					(unit 1)
@@ -12686,7 +12687,7 @@
 			(uuid "cc718d9f-816b-491a-8271-4f1ab47816e1")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R3")
 					(unit 1)
@@ -12753,7 +12754,7 @@
 			(uuid "db9849a6-c9be-4946-9bac-8b4f705c44d8")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C11")
 					(unit 1)
@@ -12831,7 +12832,7 @@
 			(uuid "a27a66d8-d628-404b-9ec0-46dd6bbda830")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D2")
 					(unit 1)
@@ -12896,7 +12897,7 @@
 			(uuid "5df8f1b0-5271-4e95-8be6-176e189d62f8")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR028")
 					(unit 1)
@@ -12962,7 +12963,7 @@
 			(uuid "ea8883d1-489b-4fbc-b565-1f5936a76dfc")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR019")
 					(unit 1)
@@ -13066,7 +13067,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d353")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 3)
@@ -13152,7 +13153,7 @@
 			(uuid "f3c8bdf8-ed67-4021-a2a3-87a2d14e988d")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D4")
 					(unit 1)
@@ -13219,7 +13220,7 @@
 			(uuid "d19bc36a-157f-4855-9068-0e4a78c6adab")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C9")
 					(unit 1)
@@ -13285,7 +13286,7 @@
 			(uuid "edd4c9f6-c602-4c1c-a770-838e4e304c4f")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR02")
 					(unit 1)
@@ -13355,7 +13356,7 @@
 			(uuid "46a7852d-b208-43a1-b355-008787313767")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C12")
 					(unit 1)
@@ -13449,7 +13450,7 @@
 			(uuid "145e0a22-af01-41e4-b120-d052789ffc90")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "Q2")
 					(unit 1)
@@ -13519,7 +13520,7 @@
 			(uuid "07d41acc-5f8f-4720-9a25-9f1d8f261cd4")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R9")
 					(unit 1)
@@ -13586,7 +13587,7 @@
 			(uuid "12205eb6-a90c-4fe2-b32b-4031f94d0a88")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C4")
 					(unit 1)
@@ -13656,7 +13657,7 @@
 			(uuid "016589bc-a1d9-4647-b953-66d958891e6e")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R10")
 					(unit 1)
@@ -13726,7 +13727,7 @@
 			(uuid "1855aa8f-9037-417f-bb9b-e4abbb35655e")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R7")
 					(unit 1)
@@ -13793,7 +13794,7 @@
 			(uuid "b54cffb3-c2ef-4cce-8244-0f9439ed6932")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R1")
 					(unit 1)
@@ -13879,7 +13880,7 @@
 			(uuid "bb610e28-599a-4479-ab6a-d8c56a82e35f")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D11")
 					(unit 1)
@@ -13983,7 +13984,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d354")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 6)
@@ -14069,7 +14070,7 @@
 			(uuid "4dedaa51-c2a5-48dc-a3ae-73192cdec890")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "D5")
 					(unit 1)
@@ -14135,7 +14136,7 @@
 			(uuid "f1f97904-ae51-4555-b182-b8f640fc1507")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR010")
 					(unit 1)
@@ -14205,7 +14206,7 @@
 			(uuid "d8e1cfd5-93eb-4c0e-b365-c90a41750a2e")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R12")
 					(unit 1)
@@ -14271,7 +14272,7 @@
 			(uuid "facbd9a4-2b8c-4a4f-999b-6ad508323949")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR06")
 					(unit 1)
@@ -14339,7 +14340,7 @@
 			(uuid "6c38bb2f-aa6f-4251-bbe6-7a3d01361e26")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R13")
 					(unit 1)
@@ -14408,7 +14409,7 @@
 			(uuid "8d5a3948-608e-4861-afec-a35c2e830797")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C1")
 					(unit 1)
@@ -14478,7 +14479,7 @@
 			(uuid "f7e8b8ae-339c-4ef2-b5a5-3aa5169d3dd5")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "R14")
 					(unit 1)
@@ -14582,7 +14583,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d355")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 4)
@@ -14664,7 +14665,7 @@
 			(uuid "c39f8333-9fe0-4f69-b9bb-6b042f76b4f0")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "J1")
 					(unit 1)
@@ -14731,7 +14732,7 @@
 			(uuid "86e30689-8ef0-4897-8ec6-2e1c96f18b81")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C13")
 					(unit 1)
@@ -14801,7 +14802,7 @@
 			(uuid "174ea8ef-cfe1-4715-a273-0a06b035a113")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C8")
 					(unit 1)
@@ -14867,7 +14868,7 @@
 			(uuid "881b8bdf-5b05-4ceb-8cd8-0c5334e02ccd")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR018")
 					(unit 1)
@@ -14934,7 +14935,7 @@
 			(uuid "00f22c4c-4429-45d6-be07-e85a451c7fb3")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "TP2")
 					(unit 1)
@@ -15000,7 +15001,7 @@
 			(uuid "657b5820-9615-418f-a9d6-c47d877f3c99")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR07")
 					(unit 1)
@@ -15066,7 +15067,7 @@
 			(uuid "1537bf73-620b-41df-9d53-5dbea8b0fd63")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR030")
 					(unit 1)
@@ -15132,7 +15133,7 @@
 			(uuid "5b4c308d-f47c-49c4-b928-a5b683ae5e01")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "#PWR016")
 					(unit 1)
@@ -15236,7 +15237,7 @@
 			(uuid "7f232bb2-09e3-4bdf-aacf-58650be8d356")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "U2")
 					(unit 1)
@@ -15331,7 +15332,7 @@
 			(uuid "641e3149-2b2a-4251-b37f-35fe3799cf91")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "J2")
 					(unit 1)
@@ -15400,7 +15401,7 @@
 			(uuid "8d4b0692-1676-4f94-9baa-83c633a6174f")
 		)
 		(instances
-			(project "PDP-8-Serial"
+			(project "PDP-8-Serial-IC"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79"
 					(reference "C3")
 					(unit 1)
