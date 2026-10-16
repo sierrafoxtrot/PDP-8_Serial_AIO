@@ -21,13 +21,18 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(123, 255, 81)",
-          "signal": "V(/DRV)",
+          "color": "rgb(8, 75, 166)",
+          "signal": "V(/OUT)",
           "trace_type": 257
         },
         {
-          "color": "rgb(8, 75, 166)",
-          "signal": "V(/OUT)",
+          "color": "rgb(255, 127, 0)",
+          "signal": "V(/Q3_E)",
+          "trace_type": 257
+        },
+        {
+          "color": "rgb(166, 86, 40)",
+          "signal": "V(/Q4_E)",
           "trace_type": 257
         },
         {
