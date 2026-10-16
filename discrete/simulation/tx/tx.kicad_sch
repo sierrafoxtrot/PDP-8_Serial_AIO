@@ -1666,6 +1666,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 90.17) (xy 236.22 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2364de44-5bb9-446b-a093-7c0625aaa9ce")
+	)
+	(wire
+		(pts
 			(xy 173.99 74.93) (xy 199.39 74.93)
 		)
 		(stroke
@@ -1723,16 +1733,6 @@
 			(type default)
 		)
 		(uuid "326cec84-02d1-4804-a445-1ed12b817bc3")
-	)
-	(wire
-		(pts
-			(xy 236.22 85.09) (xy 236.22 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35053106-f0d6-4255-950d-d645785fbada")
 	)
 	(wire
 		(pts
@@ -1963,6 +1963,26 @@
 			(type default)
 		)
 		(uuid "5de841f8-3f2a-4c84-8f70-048bd008e566")
+	)
+	(wire
+		(pts
+			(xy 248.92 88.9) (xy 248.92 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f851f25-90db-4740-adce-2620f42df8e3")
+	)
+	(wire
+		(pts
+			(xy 236.22 90.17) (xy 236.22 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f950252-593e-4e06-ae0d-395e0ec7d103")
 	)
 	(wire
 		(pts
@@ -3190,7 +3210,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3904"
+		(property "Value" "2N5551"
 			(at 176.53 58.4199 0)
 			(effects
 				(font
@@ -3247,7 +3267,25 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Type" "VBIC"
+		(property "Sim.Type" "GUMMELPOON"
+			(at 171.45 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "/home/sfinneran/work/ACMS/PDP-8-Serial/discrete/simulation/models/tx_output_ngspice.lib"
+			(at 171.45 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "2N5551"
 			(at 171.45 57.15 0)
 			(effects
 				(font
@@ -4258,7 +4296,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 236.22 81.28 0)
+		(at 236.22 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4267,7 +4305,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c9ee493-26e7-404e-a856-42cf87010308")
 		(property "Reference" "R12"
-			(at 238.76 80.0099 0)
+			(at 238.76 81.2799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4275,8 +4313,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
-			(at 238.76 82.5499 0)
+		(property "Value" "100"
+			(at 238.76 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4285,7 +4323,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 234.442 81.28 90)
+			(at 234.442 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4294,7 +4332,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 236.22 81.28 0)
+			(at 236.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4303,7 +4341,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 236.22 81.28 0)
+			(at 236.22 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4639,7 +4677,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2N3906"
+		(property "Value" "2N5401"
 			(at 176.53 91.4401 0)
 			(effects
 				(font
@@ -4696,7 +4734,25 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Type" "VBIC"
+		(property "Sim.Type" "GUMMELPOON"
+			(at 171.45 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Library" "/home/sfinneran/work/ACMS/PDP-8-Serial/discrete/simulation/models/tx_output_ngspice.lib"
+			(at 171.45 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Name" "2N5401"
 			(at 171.45 92.71 0)
 			(effects
 				(font
@@ -5495,7 +5551,7 @@
 	)
 	(symbol
 		(lib_id "power:+10V")
-		(at 243.84 92.71 0)
+		(at 248.92 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5504,7 +5560,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee694bd6-d6f8-47ba-a375-9fcf3de58463")
 		(property "Reference" "#PWR011"
-			(at 243.84 96.52 0)
+			(at 248.92 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5513,7 +5569,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 243.84 87.63 0)
+			(at 248.92 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5521,7 +5577,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 92.71 0)
+			(at 248.92 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5530,7 +5586,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 92.71 0)
+			(at 248.92 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5539,7 +5595,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+10V\""
-			(at 243.84 92.71 0)
+			(at 248.92 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
