@@ -4,7 +4,7 @@
     {
       "analysis": "TRAN",
       "commands": [
-        ".tran 50u 30m 0 20u",
+        ".tran 100u 45m 0 2u",
         ".kicad adjustpaths",
         ".save all",
         ".probe alli",
@@ -21,8 +21,8 @@
       "showGrid": true,
       "traces": [
         {
-          "color": "rgb(27, 166, 49)",
-          "signal": "V(/OUT)",
+          "color": "rgb(179, 179, 179)",
+          "signal": "V(/B3)-V(/Q3_E)",
           "trace_type": 257
         }
       ]
@@ -32,7 +32,9 @@
     "V(/Q3_E)-V(/OUT)",
     "V(/OUT)-V(/Q4_E)",
     "V(/Q3_E)-V(/B3)",
-    "V(/B4)-V(/Q4_E)"
+    "V(/B4)-V(/Q4_E)",
+    "V(/B3)-V(/Q3_E)",
+    "V(/Q4_E)-V(/B4)"
   ],
   "version": 6
 }
