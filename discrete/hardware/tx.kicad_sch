@@ -2026,16 +2026,6 @@
 		)
 		(uuid "49e7f32c-6094-415a-9e48-f393ca6e3051")
 	)
-	(label "OUT"
-		(at 247.65 86.36 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "516077b0-a4a0-42e1-aa90-943940acb79a")
-	)
 	(label "Q1_C"
 		(at 97.79 82.55 0)
 		(effects
@@ -2076,15 +2066,27 @@
 		)
 		(uuid "e1dc56a9-4a24-4e63-a3c3-fd666bcc0ed3")
 	)
-	(label "TTO"
-		(at 48.26 88.9 0)
+	(hierarchical_label "DEC_TTO_232"
+		(shape input)
+		(at 45.72 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "e600411e-5737-42ba-ae15-80bd0702bc83")
+		(uuid "3a6f9d09-94de-4495-84f0-f57922ea1f59")
+	)
+	(hierarchical_label "RS232_OUT"
+		(shape output)
+		(at 255.27 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45f99d20-edad-4282-a66d-6a1d4ea9b736")
 	)
 	(symbol
 		(lib_id "Device:R")

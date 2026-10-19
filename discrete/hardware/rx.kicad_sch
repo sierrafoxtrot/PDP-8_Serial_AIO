@@ -1127,12 +1127,6 @@
 		(uuid "655b193c-747f-4df4-976d-ba55f60621df")
 	)
 	(junction
-		(at 72.39 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "864dbaf8-da17-41cc-b881-68ac46046675")
-	)
-	(junction
 		(at 87.63 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1382,16 +1376,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 97.79) (xy 59.69 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62e7317f-14a9-4fd4-ac57-f08d97cf76b1")
-	)
-	(wire
-		(pts
 			(xy 72.39 83.82) (xy 72.39 88.9)
 		)
 		(stroke
@@ -1482,16 +1466,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 83.82) (xy 59.69 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab1c2e2c-b466-4dca-9729-e423d7285624")
-	)
-	(wire
-		(pts
 			(xy 182.88 104.14) (xy 182.88 105.41)
 		)
 		(stroke
@@ -1549,16 +1523,6 @@
 			(type default)
 		)
 		(uuid "cefb70b6-e5ca-45fe-840e-65ea0a09633f")
-	)
-	(wire
-		(pts
-			(xy 59.69 100.33) (xy 72.39 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6e62129-3e17-4459-8bf8-d772e19f1ea7")
 	)
 	(wire
 		(pts
@@ -1650,25 +1614,27 @@
 		)
 		(uuid "abcec8ff-2570-4f35-a8bd-d205f65347cd")
 	)
-	(label "DEC_TTI"
-		(at 219.71 92.71 0)
+	(hierarchical_label "RS232_IN"
+		(shape input)
+		(at 59.69 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "bd1a671c-5a06-4f0c-8a6c-5c6b75f3c67e")
+		(uuid "70e94276-9890-4108-8f5b-1e1e236f0a54")
 	)
-	(label "RS232_IN"
-		(at 60.96 83.82 0)
+	(hierarchical_label "DEC_TTI_232"
+		(shape output)
+		(at 250.19 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "bd79ac4b-cc39-4abe-9f65-a7c972e0b77c")
+		(uuid "fd9004cf-9e7b-4003-aa40-2b54f1eec449")
 	)
 	(symbol
 		(lib_id "power:+10V")
