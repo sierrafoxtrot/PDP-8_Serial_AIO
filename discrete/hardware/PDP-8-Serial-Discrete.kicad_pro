@@ -469,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PDP-8-Serial-IC.kicad_pro",
+    "filename": "PDP-8-Serial-Discrete.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -696,6 +696,14 @@
     [
       "b0fbf6eb-12c5-46d4-80aa-25b95de8bd79",
       "Root"
+    ],
+    [
+      "b50de469-c61f-4ae0-935d-91602bf2c062",
+      "Transmitter"
+    ],
+    [
+      "45ac807a-2577-4409-8b2a-1bfaf4f033b6",
+      "Receiver"
     ]
   ],
   "text_variables": {}
