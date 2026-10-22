@@ -5,6 +5,252 @@
 	(uuid "f9a36953-3df9-4ccb-89ac-7f3a50908f7d")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:C"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -1094,6 +1340,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "RS-232 Receiver"
+		(exclude_from_sim no)
+		(at 232.41 175.006 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "0afdd7bf-7a28-4779-8d45-79294f6f4fa8")
+	)
+	(text "PDP-8 Serial All-in-One"
+		(exclude_from_sim no)
+		(at 200.914 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3bbf4512-8fba-4bb7-b240-547db1fbc505")
+	)
 	(text "1/2W"
 		(exclude_from_sim no)
 		(at 72.136 92.71 0)
@@ -1113,6 +1379,18 @@
 			)
 		)
 		(uuid "8ee0fbc1-9e6d-4360-85bc-7c2271048659")
+	)
+	(junction
+		(at 128.27 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01f9fc4a-854f-4135-9470-233bbe753314")
+	)
+	(junction
+		(at 168.91 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cacf104-27e7-4c6b-90a4-90c5b37bc736")
 	)
 	(junction
 		(at 99.06 100.33)
@@ -1163,6 +1441,12 @@
 		(uuid "d4b6022a-5a92-4c66-b7bc-e0277cf91f74")
 	)
 	(junction
+		(at 52.07 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ee5e092e-5092-4e81-8b59-b583f153dcec")
+	)
+	(junction
 		(at 111.76 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1176,7 +1460,17 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 83.82) (xy 171.45 83.82)
+			(xy 52.07 182.88) (xy 60.96 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "048436de-7f50-4ae3-ada2-ca28f97668ce")
+	)
+	(wire
+		(pts
+			(xy 149.86 83.82) (xy 168.91 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1213,6 +1507,26 @@
 			(type default)
 		)
 		(uuid "14ed01f5-913f-400b-bca8-551819b9b8c3")
+	)
+	(wire
+		(pts
+			(xy 168.91 83.82) (xy 171.45 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15e5d857-4085-447c-9940-29083aebc8f1")
+	)
+	(wire
+		(pts
+			(xy 74.93 182.88) (xy 74.93 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1766592a-c155-453c-950b-fa0c8e0e7f1a")
 	)
 	(wire
 		(pts
@@ -1266,7 +1580,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 74.93) (xy 142.24 74.93)
+			(xy 138.43 74.93) (xy 142.24 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1283,6 +1597,16 @@
 			(type default)
 		)
 		(uuid "2b58d6dd-7a74-499f-9671-def6f5268325")
+	)
+	(wire
+		(pts
+			(xy 52.07 182.88) (xy 52.07 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33286f61-9937-419a-bcf9-08935ccda181")
 	)
 	(wire
 		(pts
@@ -1323,6 +1647,16 @@
 			(type default)
 		)
 		(uuid "40f165df-0176-44ff-9c24-d0727c6466b8")
+	)
+	(wire
+		(pts
+			(xy 68.58 182.88) (xy 74.93 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41f24fed-5ef2-44c0-baa9-3407cc155af7")
 	)
 	(wire
 		(pts
@@ -1436,6 +1770,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 168.91) (xy 52.07 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c400190-f050-4038-9529-9f62c89b7dcf")
+	)
+	(wire
+		(pts
 			(xy 204.47 88.9) (xy 204.47 92.71)
 		)
 		(stroke
@@ -1443,6 +1787,16 @@
 			(type default)
 		)
 		(uuid "9cdef903-05b3-4ea1-a09e-03b5f7682c79")
+	)
+	(wire
+		(pts
+			(xy 52.07 180.34) (xy 52.07 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e782c81-abb1-4679-8e40-1dad03e00a4d")
 	)
 	(wire
 		(pts
@@ -1526,6 +1880,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 74.93) (xy 130.81 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbcc51c5-b263-4415-8f1e-ba8d4bf9c2f9")
+	)
+	(wire
+		(pts
 			(xy 149.86 83.82) (xy 149.86 88.9)
 		)
 		(stroke
@@ -1595,7 +1959,7 @@
 		(uuid "fe265a8c-8b72-4696-b054-0c7288a6de2d")
 	)
 	(label "RX_SHIFT"
-		(at 158.75 83.82 0)
+		(at 154.94 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1605,7 +1969,7 @@
 		(uuid "ab0ef8e6-a49e-4325-a02a-f802087d1703")
 	)
 	(label "RX_SENSE"
-		(at 116.84 74.93 0)
+		(at 115.57 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1697,6 +2061,72 @@
 			(project "PDP-8-Serial-Discrete"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+15V")
+		(at 74.93 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0463e31b-2088-4d74-8771-f5bac81b59b4")
+		(property "Reference" "#PWR015"
+			(at 74.93 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-15V"
+			(at 74.93 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+15V\""
+			(at 74.93 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "faac0027-b4b0-4f81-aecb-c5ccf378c535")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -2168,6 +2598,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 128.27 74.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "36b5bc35-9b9d-4e8a-bf13-206e34d4bcb1")
+		(property "Reference" "TP7"
+			(at 126.492 69.088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 130.81 72.8979 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded"
+			(at 133.35 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 133.35 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 128.27 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4e1bba32-7369-4f44-9461-686c63ff1035")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 175.26 83.82 90)
 		(unit 1)
@@ -2370,6 +2867,76 @@
 			(project "PDP-8-Serial-Discrete"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
 					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 52.07 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f28aab6-701e-4cc2-94e7-a76595d5cb3d")
+		(property "Reference" "C6"
+			(at 55.88 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "C"
+			(at 55.88 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.0352 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 52.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "36dae93b-192b-48de-aabc-7168b239d49d")
+		)
+		(pin "1"
+			(uuid "065356d2-aa3e-47a2-b030-4e782c7fdeb0")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -2586,6 +3153,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 168.91 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "70705bb0-83f8-427d-a290-2422e160c1ac")
+		(property "Reference" "TP8"
+			(at 167.132 77.978 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 171.45 81.7879 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded"
+			(at 173.99 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 173.99 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 168.91 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dec44a64-b2a1-440e-9872-78c0d9162d3d")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:2N3906")
 		(at 147.32 74.93 0)
 		(mirror x)
@@ -2716,7 +3350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "833ace5e-e4ea-4845-b219-1dec6e9b651b")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR0101"
 			(at 196.85 113.03 0)
 			(effects
 				(font
@@ -2766,7 +3400,7 @@
 		(instances
 			(project "PDP-8-Serial-Discrete"
 				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
-					(reference "#PWR012")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -2971,6 +3605,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+10V")
+		(at 52.07 168.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a494cd34-e7a8-451f-b070-9a3964bfb36f")
+		(property "Reference" "#PWR016"
+			(at 52.07 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+10V"
+			(at 52.07 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+10V\""
+			(at 52.07 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f86431e2-4933-4505-b09d-4925ac115656")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N914")
 		(at 99.06 92.71 270)
 		(unit 1)
@@ -3059,25 +3759,25 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 132.08 74.93 270)
+		(lib_id "Device:C")
+		(at 64.77 182.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e1d6e54e-d07f-457d-80f9-6a126e7c3855")
-		(property "Reference" "R20"
-			(at 132.08 68.58 90)
+		(uuid "d140ee2a-f2ab-4939-aaa3-63b2cb4d3c39")
+		(property "Reference" "C7"
+			(at 64.77 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k"
-			(at 132.08 71.12 90)
+		(property "Value" "C"
+			(at 64.77 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3085,7 +3785,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 73.152 90)
+			(at 68.58 181.9148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3094,7 +3794,141 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 74.93 0)
+			(at 64.77 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 64.77 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1f00221a-002e-4cd7-bb1c-525cf6801a87")
+		)
+		(pin "1"
+			(uuid "9ea66742-37c9-44fc-8667-b0fa52c8fca1")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 52.07 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d28578ce-0bbe-4378-b786-ac1b3e228751")
+		(property "Reference" "#PWR018"
+			(at 52.07 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 52.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 52.07 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e7a58516-bbff-4615-81ea-0500ee02a542")
+		)
+		(instances
+			(project "PDP-8-Serial-Discrete"
+				(path "/b0fbf6eb-12c5-46d4-80aa-25b95de8bd79/45ac807a-2577-4409-8b2a-1bfaf4f033b6"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 134.62 74.93 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1d6e54e-d07f-457d-80f9-6a126e7c3855")
+		(property "Reference" "R20"
+			(at 134.62 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47k"
+			(at 134.62 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 73.152 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 134.62 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3103,7 +3937,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 132.08 74.93 0)
+			(at 134.62 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)

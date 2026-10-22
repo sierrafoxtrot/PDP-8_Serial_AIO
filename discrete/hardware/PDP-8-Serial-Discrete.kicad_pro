@@ -704,6 +704,10 @@
     [
       "45ac807a-2577-4409-8b2a-1bfaf4f033b6",
       "Receiver"
+    ],
+    [
+      "3720162a-a4ca-494e-94cf-5db9453b5a01",
+      "Reader Enable"
     ]
   ],
   "text_variables": {}
