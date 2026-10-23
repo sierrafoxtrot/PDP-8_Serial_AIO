@@ -1340,6 +1340,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "½W"
+		(exclude_from_sim no)
+		(at 208.788 103.124 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "01098d68-c609-4fc7-8ca0-0b1dd4893294")
+	)
 	(text "LEVEL CONVERTER"
 		(exclude_from_sim no)
 		(at 155.194 50.038 0)
@@ -1370,16 +1380,6 @@
 		)
 		(uuid "3bbf4512-8fba-4bb7-b240-547db1fbc505")
 	)
-	(text "1/2W"
-		(exclude_from_sim no)
-		(at 72.136 92.71 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4abe7e48-a315-434e-bc15-362d9338bd17")
-	)
 	(text "RS232 INPUT \nPROTECTION AND BIAS"
 		(exclude_from_sim no)
 		(at 58.166 103.886 0)
@@ -1390,6 +1390,16 @@
 		)
 		(uuid "5d44c088-b405-4fbe-b5c9-759aac699656")
 	)
+	(text "½W"
+		(exclude_from_sim no)
+		(at 76.454 96.774 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "75a9c35e-3f6c-41da-a882-c75198da8fa9")
+	)
 	(text "LOGIC OUTPUT AMPLIFIER"
 		(exclude_from_sim no)
 		(at 203.454 122.174 0)
@@ -1399,16 +1409,6 @@
 			)
 		)
 		(uuid "7c86ec04-f856-4644-a382-f20aef1118dc")
-	)
-	(text "1/2W"
-		(exclude_from_sim no)
-		(at 203.962 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8ee0fbc1-9e6d-4360-85bc-7c2271048659")
 	)
 	(text "LINE \nRECEIVER"
 		(exclude_from_sim no)
@@ -2321,7 +2321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 113.538 67.31 90)
 			(effects
 				(font
@@ -2730,7 +2730,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 175.26 85.598 90)
 			(effects
 				(font
@@ -2780,7 +2780,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3f60a46f-0f39-49d0-85a9-6bb9512e0390")
 		(property "Reference" "R4"
 			(at 74.93 91.4399 0)
@@ -2800,7 +2799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 74.168 92.71 90)
 			(effects
 				(font
@@ -2870,7 +2869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 198.628 99.06 90)
 			(effects
 				(font
@@ -2940,7 +2939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 51.1048 180.34 0)
 			(effects
 				(font
@@ -3010,7 +3009,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 89.408 92.71 90)
 			(effects
 				(font
@@ -3080,7 +3079,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 148.082 92.71 90)
 			(effects
 				(font
@@ -3150,7 +3149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 202.692 99.06 90)
 			(effects
 				(font
@@ -3824,7 +3823,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 68.58 181.9148 0)
 			(effects
 				(font
@@ -3958,7 +3957,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 134.62 73.152 90)
 			(effects
 				(font
@@ -4026,7 +4025,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 80.01 85.598 90)
 			(effects
 				(font

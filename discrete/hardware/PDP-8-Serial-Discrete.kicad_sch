@@ -2793,6 +2793,26 @@
 		)
 		(uuid "4cfdacb5-3f3e-489e-b7f8-c119928dc563")
 	)
+	(text "1W"
+		(exclude_from_sim no)
+		(at 153.67 32.004 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "63b94754-9608-418b-8ff8-6af2005553ce")
+	)
+	(text "1W"
+		(exclude_from_sim no)
+		(at 137.668 30.988 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "72d41ea3-be6f-4368-82b3-161b5b633658")
+	)
 	(text "Relay+"
 		(exclude_from_sim no)
 		(at 204.978 43.688 0)
@@ -2802,6 +2822,16 @@
 			)
 		)
 		(uuid "805e90c5-0e94-4a13-a5fc-6addeaa70823")
+	)
+	(text "1W"
+		(exclude_from_sim no)
+		(at 177.038 48.768 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9bb49f61-ce72-4d14-9cba-671e5c65a813")
 	)
 	(text "PDP-8 Serial All-in-One"
 		(exclude_from_sim no)
@@ -4707,8 +4737,8 @@
 				)
 			)
 		)
-		(property "Value" "750R 1W"
-			(at 158.242 30.734 90)
+		(property "Value" "750R"
+			(at 149.098 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5593,14 +5623,14 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 136.144 30.734 90)
+			(at 134.112 30.734 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal"
 			(at 135.89 31.242 90)
 			(effects
 				(font
@@ -5856,8 +5886,8 @@
 				)
 			)
 		)
-		(property "Value" "750R 1W"
-			(at 173.99 48.514 90)
+		(property "Value" "750R"
+			(at 172.466 48.514 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5932,7 +5962,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 58.42 167.9448 0)
 			(effects
 				(font
@@ -6066,7 +6096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 39.37 167.9448 0)
 			(effects
 				(font
