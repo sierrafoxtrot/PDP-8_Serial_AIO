@@ -4882,7 +4882,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PCBEdge:DEC_single_short"
+		(property "Footprint" "Library:DEC_single_short_holeless"
 			(at 35.56 109.22 0)
 			(effects
 				(font
