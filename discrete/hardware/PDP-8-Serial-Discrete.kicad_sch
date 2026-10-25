@@ -4495,7 +4495,7 @@
 		(uuid "3b1c4aa1-2e7e-45be-9d76-20f755a2d248")
 	)
 	(label "TTI"
-		(at 36.83 27.94 0)
+		(at 35.56 27.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4625,7 +4625,7 @@
 		(uuid "aed8cd77-0a50-48b0-b66c-0660bc7b6f1f")
 	)
 	(label "TTO"
-		(at 21.59 27.94 0)
+		(at 20.32 27.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4928,7 +4928,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TTI"
+		(property "Value" "GND"
 			(at 55.88 164.3379 0)
 			(effects
 				(font
@@ -5615,7 +5615,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TTI"
+		(property "Value" "RxD"
 			(at 201.93 95.7579 0)
 			(effects
 				(font
@@ -5682,7 +5682,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TTI"
+		(property "Value" "-15V"
 			(at 74.93 164.3379 0)
 			(effects
 				(font
@@ -6892,7 +6892,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TTI"
+		(property "Value" "+10V"
 			(at 38.1 164.3379 0)
 			(effects
 				(font
@@ -7111,7 +7111,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TTI"
+		(property "Value" "TxD"
 			(at 201.93 77.9779 0)
 			(effects
 				(font
@@ -7257,7 +7257,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TTI"
+		(property "Value" "CTS"
 			(at 201.93 156.7179 0)
 			(effects
 				(font
