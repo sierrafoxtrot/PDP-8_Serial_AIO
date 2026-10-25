@@ -505,7 +505,7 @@
 						)
 					)
 				)
-				(number "A2"
+				(number "AA2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -523,7 +523,7 @@
 						)
 					)
 				)
-				(number "B2"
+				(number "AB2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -541,7 +541,7 @@
 						)
 					)
 				)
-				(number "C2"
+				(number "AC2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -559,7 +559,7 @@
 						)
 					)
 				)
-				(number "D2"
+				(number "AD2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -577,7 +577,7 @@
 						)
 					)
 				)
-				(number "E2"
+				(number "AE2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -595,7 +595,7 @@
 						)
 					)
 				)
-				(number "F2"
+				(number "AF2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -613,7 +613,7 @@
 						)
 					)
 				)
-				(number "H2"
+				(number "AH2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -631,7 +631,7 @@
 						)
 					)
 				)
-				(number "J2"
+				(number "AJ2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -649,7 +649,7 @@
 						)
 					)
 				)
-				(number "K2"
+				(number "AK2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -667,7 +667,7 @@
 						)
 					)
 				)
-				(number "L2"
+				(number "AL2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -685,7 +685,7 @@
 						)
 					)
 				)
-				(number "M2"
+				(number "AM2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -703,7 +703,7 @@
 						)
 					)
 				)
-				(number "N2"
+				(number "AN2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -721,7 +721,7 @@
 						)
 					)
 				)
-				(number "P2"
+				(number "AP2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -739,7 +739,7 @@
 						)
 					)
 				)
-				(number "R2"
+				(number "AR2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -757,7 +757,7 @@
 						)
 					)
 				)
-				(number "S2"
+				(number "AS2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -765,7 +765,7 @@
 					)
 				)
 			)
-			(pin free line
+			(pin passive line
 				(at 5.08 -17.78 180)
 				(length 3.81)
 				(name "Pin_T"
@@ -775,7 +775,7 @@
 						)
 					)
 				)
-				(number "T2"
+				(number "AT2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -793,7 +793,7 @@
 						)
 					)
 				)
-				(number "U2"
+				(number "AU2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -811,7 +811,7 @@
 						)
 					)
 				)
-				(number "V2"
+				(number "AV2"
 					(effects
 						(font
 							(size 1.27 1.27)
