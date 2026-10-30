@@ -635,8 +635,8 @@
         },
         {
           "group_by": false,
-          "label": "Datasheet",
-          "name": "Datasheet",
+          "label": "Manufacturer",
+          "name": "Manufacturer",
           "show": true
         },
         {
@@ -680,6 +680,24 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "DigiKey_PN",
+          "name": "DigiKey_PN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": true
         }
       ],
       "filter_string": "",
@@ -687,7 +705,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "${DNP}"
     },
     "connection_grid_size": 50.0,
     "drawing": {

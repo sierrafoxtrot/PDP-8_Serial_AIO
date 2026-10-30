@@ -2136,6 +2136,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "4878-2N5551CT-ND"
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2N5551"
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 109.22 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "8f8cf4e0-6f32-4dbe-bae3-b51b42815b19")
 		)
@@ -2201,6 +2228,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 111.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "MFR-25FBF52-47K-ND"
+			(at 111.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RES 47K OHM 1% 1/4W AXIAL"
+			(at 111.76 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 111.76 67.31 0)
 			(effects
 				(font
@@ -2327,6 +2381,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "4878-2N5401CT-ND"
+			(at 201.93 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2N5401"
+			(at 201.93 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 201.93 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1c7de0e6-0ef3-43d2-b7d3-ac13c8e9fb7c")
 		)
@@ -2410,6 +2491,33 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 182.88 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" " 1N914B-ND"
+			(at 182.88 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N914B"
+			(at 182.88 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "onsemi"
+			(at 182.88 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2551,6 +2659,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "10.0KXBK-ND"
+			(at 175.26 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MFR-25FBF52-10K"
+			(at 175.26 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 175.26 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d6694c50-cf36-4900-8c7a-d618e3c97d59")
 		)
@@ -2612,6 +2747,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 72.39 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "MFR-50FRF52-5K1-ND"
+			(at 72.39 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MFR-50FRF52-5K1"
+			(at 72.39 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 72.39 92.71 0)
 			(effects
 				(font
@@ -2690,6 +2852,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "MFR-25FBF52-2K7-ND"
+			(at 196.85 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RES 2.7K OHM 1% 1/4W AXIAL"
+			(at 196.85 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 196.85 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "50f2cfef-9b2e-4ab8-bc15-967f3fe2337e")
 		)
@@ -2752,6 +2941,33 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 52.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "490-9145-1-ND"
+			(at 52.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RDER71H104K0S1H03A"
+			(at 52.07 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
 			(at 52.07 176.53 0)
 			(effects
 				(font
@@ -2830,6 +3046,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "MFR-25FBF52-470K-ND"
+			(at 87.63 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MFR-25FBF52-470K"
+			(at 87.63 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 87.63 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "632a4bf0-0f6c-40db-a6bb-41780ae3adba")
 		)
@@ -2900,6 +3143,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "MFR-25FBF52-47K-ND"
+			(at 149.86 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RES 47K OHM 1% 1/4W AXIAL"
+			(at 149.86 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 149.86 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eafb8da9-df51-4290-96eb-fe389bc844a1")
 		)
@@ -2962,6 +3232,33 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "MFR-50FRF52-2K2-ND"
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RES 2.2K OHM 1% 1/2W AXIAL"
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
 			(at 204.47 99.06 0)
 			(effects
 				(font
@@ -3080,6 +3377,33 @@
 			)
 		)
 		(property "Sim.Name" "2N5401"
+			(at 147.32 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "4878-2N5401CT-ND"
+			(at 147.32 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2N5401"
+			(at 147.32 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diotec Semiconductor"
 			(at 147.32 74.93 0)
 			(effects
 				(font
@@ -3509,6 +3833,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" " 1N914B-ND"
+			(at 99.06 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1N914B"
+			(at 99.06 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "onsemi"
+			(at 99.06 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1741b35d-b503-4da8-a427-53f83db4a73a")
 		)
@@ -3570,6 +3921,33 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "490-9145-1-ND"
+			(at 64.77 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RDER71H104K0S1H03A"
+			(at 64.77 182.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 64.77 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3711,6 +4089,33 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_PN" "MFR-25FBF52-47K-ND"
+			(at 134.62 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RES 47K OHM 1% 1/4W AXIAL"
+			(at 134.62 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 134.62 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c5e11bc-25e9-46d2-9e55-9361547c3bd0")
 		)
@@ -3772,6 +4177,33 @@
 		)
 		(property "Description" "Resistor"
 			(at 80.01 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_PN" "100KXBK-ND"
+			(at 80.01 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MFR-25FBF52-100K"
+			(at 80.01 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 80.01 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
