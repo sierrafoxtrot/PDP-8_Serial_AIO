@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "DEC")(type "KiCad")(uri "${KIPRJMOD}/../common/DEC.pretty")(options "")(descr ""))
+  (lib (name "DEC")(type "KiCad")(uri "/home/sfinneran/work/ACMS/PDP-8-Serial/common/DEC.pretty")(options "")(descr ""))
 )
