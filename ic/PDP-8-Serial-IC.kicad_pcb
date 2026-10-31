@@ -241,7 +241,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/36933a38-5318-4ec8-925c-36b3609e3e34")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -406,7 +406,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/75c1763f-ef34-4919-ac94-68eda1a4b487")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.12 1.37)
@@ -589,7 +589,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3570cf96-4e06-4908-bd18-945851a1d0d7")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 0)
@@ -763,7 +763,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d48addbe-65c8-4d60-a72e-1fa8ec7c57f1")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.12 1.37)
@@ -946,7 +946,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c5b852b3-88b8-4e7b-b649-a26463dacab8")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -1109,7 +1109,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3ed75411-710e-4df7-adde-a445cbf580be")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -1283,7 +1283,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f131793f-384d-489e-a1a4-7b9998967703")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.37)
@@ -1446,7 +1446,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d6889d3-da91-4cb9-b5e6-12f9d516fda6")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.12 1.37)
@@ -1629,7 +1629,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/48c5f4d5-af72-469f-81f7-ad97dbb4d37f")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -1829,7 +1829,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/7670d5a2-b670-4f14-b9ef-609b5551ee82")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -2088,7 +2088,7 @@
 		(property ki_fp_filters "SOIC*P1.27mm* DIP*W7.62mm* TSSOP*4.4x5mm*P0.65mm*")
 		(path "/01627562-2887-4e29-a450-81b34982624d")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 19.11)
@@ -2471,7 +2471,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/20ce2df3-b1a0-4e86-bab3-0f535108ef95")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
@@ -2763,7 +2763,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/75f426bb-cdf2-4da4-a79f-3e4a48ea81bc")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 1.37)
@@ -2926,7 +2926,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c274e643-69df-4687-8f21-a6f19d0733e7")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3100,7 +3100,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0f8654ee-a687-4fc7-a36d-d2baffcc037b")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3274,7 +3274,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3a20b999-bd54-4af2-9333-5c5583e1f2f1")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3474,7 +3474,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/86bd6eea-f16b-4d9a-a452-6e74faf14307")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3733,7 +3733,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9f80e8e0-1243-4c02-b646-751880c45550")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -3920,7 +3920,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/97bcf819-8493-4417-86e4-7d07afc5d428")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -4131,7 +4131,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/8c34ae39-4517-4bab-9d76-32bb6f760cab")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 6.46)
@@ -4366,7 +4366,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/ed6cbf57-82c1-4abd-81b1-fe0371a4b5d6")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 16.57)
@@ -4740,7 +4740,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/283664fb-64d3-4061-a536-61825bfa733c")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -4960,7 +4960,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cad00676-6c80-4d66-905c-99a1088f5977")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -5162,7 +5162,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/9e9dfebb-8c64-4e60-bfed-1ec9475691ba")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -5384,7 +5384,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/10629909-7cf7-4dc8-8c53-695d371104b8")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -5549,7 +5549,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a2b60233-9faa-4e76-9e8c-1044e3f2ad8f")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -5723,7 +5723,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/93d09f2a-e28d-43f2-86a1-e3522da06400")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -5900,7 +5900,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/400db9fa-faf3-4e99-bc19-9fc5d459cfce")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -6146,7 +6146,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/4b85ed97-7b34-4fa3-a144-09ddfaf1e0a6")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -6405,7 +6405,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1fe85d0a-0b94-4571-b748-54361826be5a")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.12 1.37)
@@ -6588,7 +6588,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a48ee0bd-fe23-46f6-8564-fb511c76f188")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.44 0)
@@ -6763,7 +6763,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/07af502d-9e53-4705-aeab-29650f4db93e")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 6.46)
@@ -6998,7 +6998,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bcd6411c-a7e8-433b-9fcd-c1883a33aa04")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -7174,7 +7174,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6f4a3517-3296-43fd-ab7a-0095a71551ef")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -7341,7 +7341,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/da0cd4f3-b4c6-482c-b2f8-ee03fefe5d5f")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -7506,7 +7506,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a233b5f4-1e87-4fa2-850f-f0116097a8f2")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -7706,7 +7706,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/644ac247-2525-4516-a669-bed422c7f04e")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -7965,7 +7965,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/664c8bb7-623a-4218-aa46-602b4a407234")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -8141,7 +8141,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/15d9125f-b551-48a6-840e-c7a6c0062b3c")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -8319,7 +8319,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4de5662e-4c37-4bf1-a474-2f0d3fdbd47d")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -8529,7 +8529,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/384ae34e-7e13-4af0-a7fb-71396fc65967")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.37 1.37)
@@ -8692,7 +8692,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/d0a6bb49-e2dc-495f-9bf6-4bd5d9308859")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.56 8.11)
@@ -9023,7 +9023,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6791682b-f2e8-435f-a4ad-98fd4c58a58f")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 6.46)
@@ -9260,7 +9260,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/824bec4b-4c94-4c63-8fe7-69adfeb2cb03")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -9425,7 +9425,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/95dfca88-3850-4e2a-b1bb-e516ee2b74b0")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.12 1.37)
@@ -9608,7 +9608,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9da9e8c4-86fe-4ff4-9988-fc7b7303b5d1")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.37 -1.37)
@@ -9774,7 +9774,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/3534e886-d791-47f9-9f45-4272e9d9ee7e")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
@@ -10110,7 +10110,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6065af2f-86fc-4744-8c1f-d137205c11c6")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -10322,7 +10322,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/56314b99-e3bc-4b38-81b9-5f9637f8fbdf")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center 0 0)
@@ -10489,7 +10489,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3b5320c6-a95c-48dc-a79d-54c253d25970")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 18.415 0.08)
@@ -11677,7 +11677,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d27b7afd-0409-4bb6-8561-b394281dde95")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 1.37)
@@ -11866,7 +11866,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/ac7a584f-ff5b-4011-a0d2-e65388b9c682")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -12151,7 +12151,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/8215b246-4dfb-41bf-98e0-ee6147c29349")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -12413,7 +12413,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged12*")
 		(path "/323b9836-3a47-4ccd-9de6-d0229e3e2ef1")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
@@ -12764,7 +12764,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/6165e7bf-3a14-4ee8-b0d8-746b39a7dda0")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -12984,7 +12984,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a14673a2-b231-4c5b-b421-cc5cfd0f468c")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.12 -1.37)
@@ -13193,7 +13193,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/9cda6827-6154-4f4f-b294-10285e0a647a")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.58 0)
@@ -13478,7 +13478,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/a70fcf70-8fd5-487c-9ca3-26577ae28929")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -13737,7 +13737,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/49525278-70ef-4f29-9182-5561fe06dc2c")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.78 -2.6)
@@ -14130,7 +14130,7 @@
 		(property ki_fp_filters "DSUB*Socket*")
 		(path "/f0ef2bd7-6d17-474b-9542-a587a03e8d17")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -9.945 10.48)
@@ -14520,7 +14520,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6401ba40-6d91-4a8d-83e0-83d7d011d104")
 		(sheetname "/")
-		(sheetfile "PDP-8-Serial.kicad_sch")
+		(sheetfile "PDP-8-Serial-IC.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DEC")(type "KiCad")(uri "${KIPRJMOD}/../../common/DEC.kicad_sym")(options "")(descr ""))
+  (lib (name "Links")(type "KiCad")(uri "${KIPRJMOD}/Links.kicad_sym")(options "")(descr ""))
+)

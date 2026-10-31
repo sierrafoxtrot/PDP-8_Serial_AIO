@@ -1,0 +1,38 @@
+* TX output BJT models for KiCad/ngspice
+* Model order for both devices: C B E
+*
+* IMPORTANT PROVENANCE:
+* 2N5551: Fairchild Semiconductor 2N5551/MMBT5551 datasheet (2009),
+*         not the Diotec model, and not device-specific to Diotec 2N5551.
+*         Published at https://www.farnell.com/datasheets/468177.pdf
+* 2N5401: user's Central Semiconductor 2n5401_spice.lib
+*         (model metadata identifies Fairchild).
+*
+* The originally supplied Diotec 2N5551 model sets IS=Ices/2=50n.
+* This yields unphysically low forward VBE (~0.28 V at ~3 mA).
+* The reference model below uses the published Fairchild parameters,
+* including IS=2.511f. It is a better plausibility reference but
+* cannot substitute for validation of the actual Diotec transistor.
+*
+.MODEL 2N5551 NPN (
++ IS=2.511f XTI=3 EG=1.11 VAF=100 BF=242.6
++ NE=1.249 ISE=2.511f IKF=0.3458 XTB=1.5 BR=3.197 NC=2
++ RC=1 RB=10
++ CJC=4.883p MJC=0.3047 VJC=0.75 FC=0.5
++ CJE=18.79p MJE=0.3416 VJE=0.75
++ TR=1.202n TF=560p ITF=50m VTF=5 XTF=8
++ )
+
+* 2N5401 PNP: Central Semiconductor hosted, Fairchild-derived
+.MODEL 2N5401 PNP (
++ IS=21.48f XTI=3 EG=1.11
++ BF=132.1 VAF=100 IKF=0.1848 XTB=1.5
++ ISE=21.48f NE=1.375 BR=3.661 NC=2
++ RC=1.6 RB=10
++ CJC=17.63p MJC=0.5312 VJC=0.75 FC=0.5
++ CJE=73.39p MJE=0.3777 VJE=0.75
++ TR=1.476n TF=641.9p
++ )
+
+* These models describe nominal electrical characteristics only.
+* Breakdown limits, safe operating area, and self heating are NOT enforced.
