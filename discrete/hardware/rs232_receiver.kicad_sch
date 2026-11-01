@@ -2755,7 +2755,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_PN" "MFR-50FRF52-5K1-ND"
+		(property "DigiKey_PN" "13-MFR50SFTE52-5K1CT-ND"
 			(at 72.39 92.71 0)
 			(effects
 				(font
@@ -3240,7 +3240,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_PN" "MFR-50FRF52-2K2-ND"
+		(property "DigiKey_PN" "13-MFR50SFTE52-2K2CT-ND"
 			(at 204.47 99.06 0)
 			(effects
 				(font
@@ -3249,7 +3249,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RES 2.2K OHM 1% 1/2W AXIAL"
+		(property "MPN" "MFR50SFTE52-2K2"
 			(at 204.47 99.06 0)
 			(effects
 				(font

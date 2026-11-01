@@ -8997,7 +8997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "13-RSF100JB-73-1K-ND"
+		(property "Digikey_PN" "1.00KXBK-ND"
 			(at 151.13 93.98 0)
 			(effects
 				(font
@@ -9006,7 +9006,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 151.13 93.98 0)
 			(effects
 				(font
@@ -10999,7 +10999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "13-RSF100JB-73-1K-ND"
+		(property "Digikey_PN" "1.00KXBK-ND"
 			(at 151.13 41.91 0)
 			(effects
 				(font
@@ -11008,7 +11008,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 151.13 41.91 0)
 			(effects
 				(font
@@ -11392,7 +11392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "13-RSF100JB-73-1K-ND"
+		(property "Digikey_PN" "1.00KXBK-ND"
 			(at 210.82 114.3 0)
 			(effects
 				(font
@@ -11401,7 +11401,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 210.82 114.3 0)
 			(effects
 				(font
@@ -14360,7 +14360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "13-RSF100JB-73-1K-ND"
+		(property "Digikey_PN" "1.00KXBK-ND"
 			(at 48.26 29.21 90)
 			(effects
 				(font
@@ -14369,7 +14369,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 48.26 29.21 90)
 			(effects
 				(font
@@ -16665,7 +16665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey_PN" "13-RSF100JB-73-1K-ND"
+		(property "Digikey_PN" "1.00KXBK-ND"
 			(at 238.76 142.24 0)
 			(effects
 				(font
@@ -16674,7 +16674,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 238.76 142.24 0)
 			(effects
 				(font

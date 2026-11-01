@@ -3638,7 +3638,7 @@
 				)
 			)
 		)
-		(property "DigiKey_PN" "MFR-50FRF52-5K1-ND"
+		(property "DigiKey_PN" "13-MFR50SFTE52-5K1CT-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3851,7 +3851,7 @@
 				)
 			)
 		)
-		(property "DigiKey_PN" "13-RSF100JB-73-1K-ND"
+		(property "DigiKey_PN" "1.00KXBK-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3864,7 +3864,7 @@
 				)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27695,7 +27695,7 @@
 				)
 			)
 		)
-		(property "DigiKey_PN" "MFR-50FRF52-2K2-ND"
+		(property "DigiKey_PN" "13-MFR50SFTE52-2K2CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27708,7 +27708,7 @@
 				)
 			)
 		)
-		(property "MPN" "RES 2.2K OHM 1% 1/2W AXIAL"
+		(property "MPN" "MFR50SFTE52-2K2"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

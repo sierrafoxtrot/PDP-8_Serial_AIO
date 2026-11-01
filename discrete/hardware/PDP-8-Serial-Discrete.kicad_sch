@@ -6895,7 +6895,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey_PN" "13-RSF100JB-73-1K-ND"
+		(property "DigiKey_PN" "1.00KXBK-ND"
 			(at 144.78 33.02 90)
 			(effects
 				(font
@@ -6904,7 +6904,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "RSF100JB-73-1K"
+		(property "MPN" "MFR-25FBF52-1K"
 			(at 144.78 33.02 90)
 			(effects
 				(font
